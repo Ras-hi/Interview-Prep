@@ -1,0 +1,15 @@
+         GD technical notes
+1- cyberspying
+Feb 2024-> 35 countries like UK,France,US  and tech firms like google,microsoft,meta joined a joint statement . phone class tapped,data gathering illegally, remote operation of camera & microphones
+Other term -cyber espionage(unauthorized monitoring ,gathering or theft of sensitive info)
+Social engineering tactics ,phishing attempts 
+
+
+2-Paytm payments bank shutdown 
+RBI governor-Shaktikanta Das
+RBI Deputy governor- Swaminathan Janakiraman 
+Reasons : 
+Consistent non-compliance issues,data security, kyc procedures , and adherence to regulatory norms. 
+Influence of Ant Group , a chinese financial firm and major stakeholder in paytm 
+Result:
+Deadline of 29 feb 2024 for customers to either withdraw funds or abstain from further recharges .
