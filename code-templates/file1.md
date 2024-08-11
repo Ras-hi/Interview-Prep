@@ -104,3 +104,23 @@ int fn(ListNode* head) {
 
 ```
 
+
+##  ✔️ Reversing a Linked List
+
+```javascript
+Listnode* fn(Listnode* head) {
+    Listnode* curr=head;
+    Listnode* prev =nullptr;
+    while(curr!=nullptr){
+        Listnode* nextnode =curr->next;
+        curr->next =prev;
+        prev=curr;
+        curr=nextnode;
+    }
+    return prev;
+}
+
+
+```
+
+
